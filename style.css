@@ -65,7 +65,6 @@
     color: #fff;
   }
   
-<<<<<<< HEAD
   .hero-stat {
     border-left: 3px solid var(--brand-maroon);
     padding-left: 1rem;
@@ -83,8 +82,6 @@
     letter-spacing: 0.06em;
   }
   
-=======
->>>>>>> c93d7d5 (tambah styling services, about)
   /* ── Services ───────────────────────────────────────── */
   #services {
     background: #fcf7f9;
@@ -125,6 +122,7 @@
     align-items: center;
     justify-content: center;
   }
+  
   .about-check {
     color: var(--brand-maroon);
   }
@@ -184,8 +182,6 @@
     color: var(--brand-maroon);
   }
   
-=======
->>>>>>> c93d7d5 (tambah styling services, about)
   /* ── Footer ─────────────────────────────────────────── */
   footer {
     background: var(--brand-dark);
